@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" modified="2023-09-12T17:03:58.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="v-JxWqQHyyO7D6mxlfgJ" version="21.7.4" type="device">
+  <diagram name="Page-1" id="5-9eP00wDvto8B_x-BCT">
+    <mxGraphModel dx="910" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T_accV0QKfrRkrqxcDgm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T_accV0QKfrRkrqxcDgm-1" target="T_accV0QKfrRkrqxcDgm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T_accV0QKfrRkrqxcDgm-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="395" y="90" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T_accV0QKfrRkrqxcDgm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T_accV0QKfrRkrqxcDgm-2" target="T_accV0QKfrRkrqxcDgm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T_accV0QKfrRkrqxcDgm-2" value="View Podcasts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T_accV0QKfrRkrqxcDgm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T_accV0QKfrRkrqxcDgm-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T_accV0QKfrRkrqxcDgm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T_accV0QKfrRkrqxcDgm-5" target="T_accV0QKfrRkrqxcDgm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T_accV0QKfrRkrqxcDgm-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="330" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T_accV0QKfrRkrqxcDgm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T_accV0QKfrRkrqxcDgm-7" target="T_accV0QKfrRkrqxcDgm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T_accV0QKfrRkrqxcDgm-7" value="View All User Podcasts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="315" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T_accV0QKfrRkrqxcDgm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T_accV0QKfrRkrqxcDgm-10" target="T_accV0QKfrRkrqxcDgm-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T_accV0QKfrRkrqxcDgm-10" value="View User Specific Podcasts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="315" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T_accV0QKfrRkrqxcDgm-15" value="If Podcast Manager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="315" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T_accV0QKfrRkrqxcDgm-16" value="If Normal User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="315" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T_accV0QKfrRkrqxcDgm-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T_accV0QKfrRkrqxcDgm-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="580" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T_accV0QKfrRkrqxcDgm-23" value="&lt;h1&gt;Use Case Description&lt;/h1&gt;&lt;p&gt;Once a user has logged in they will have the ability to view podcasts based on which account they have logged into. If the login was for the Podcast Manager they will have the ability to see the podcasts of every user on their application while a normal user would only be allowed to see their own podcasts. Once the users see their files they can move on with other operations via the program.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="130" width="190" height="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
