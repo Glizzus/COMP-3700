@@ -1,0 +1,62 @@
+<mxfile host="Electron" modified="2023-09-12T20:08:50.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="FaAxRJaVyKydJI6Guqg5" version="21.6.8" type="device">
+  <diagram name="Page-1" id="hMlXi8AzLG2mlIEBjENS">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="96aA8YCgnIsmCBzj4DnL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="96aA8YCgnIsmCBzj4DnL-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="96aA8YCgnIsmCBzj4DnL-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="340" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96aA8YCgnIsmCBzj4DnL-3" value="Admin Login Activity Diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="96aA8YCgnIsmCBzj4DnL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="96aA8YCgnIsmCBzj4DnL-5" target="96aA8YCgnIsmCBzj4DnL-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96aA8YCgnIsmCBzj4DnL-5" value="User and Pass" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="96aA8YCgnIsmCBzj4DnL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="96aA8YCgnIsmCBzj4DnL-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="96aA8YCgnIsmCBzj4DnL-7" value="Successful Login" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="440" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="96aA8YCgnIsmCBzj4DnL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="96aA8YCgnIsmCBzj4DnL-9" target="96aA8YCgnIsmCBzj4DnL-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96aA8YCgnIsmCBzj4DnL-9" value="Bad Login/ Error Message" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="96aA8YCgnIsmCBzj4DnL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="96aA8YCgnIsmCBzj4DnL-12" target="96aA8YCgnIsmCBzj4DnL-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96aA8YCgnIsmCBzj4DnL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="96aA8YCgnIsmCBzj4DnL-12" target="96aA8YCgnIsmCBzj4DnL-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96aA8YCgnIsmCBzj4DnL-12" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="96aA8YCgnIsmCBzj4DnL-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="250" y="530" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="96aA8YCgnIsmCBzj4DnL-21" value="&lt;h1&gt;Use Case Description&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Use Case Name&lt;/b&gt; - Admin Login&lt;/p&gt;&lt;p&gt;&lt;b&gt;Summary &lt;/b&gt;- Allows the user to log in the the program in order to start using it&lt;/p&gt;&lt;p&gt;&lt;b&gt;Actor&amp;nbsp;&lt;/b&gt;- Podcast Manager&lt;/p&gt;&lt;p&gt;&lt;b&gt;Precondition &lt;/b&gt;- The Podcast Manager must have an account.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Main Sequence&lt;/b&gt;-&amp;nbsp;&lt;/p&gt;&lt;p&gt;1. User goes to application to landing page&lt;/p&gt;&lt;p&gt;2. User puts in credentials.&lt;/p&gt;&lt;p&gt;3. User is let into system.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Alternate Sequence&lt;/b&gt;-&amp;nbsp;&lt;/p&gt;&lt;p&gt;1. User does not have account&lt;/p&gt;&lt;p&gt;2. The system displays an error.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="120" width="310" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="96aA8YCgnIsmCBzj4DnL-22" value="Correct Login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="96aA8YCgnIsmCBzj4DnL-23" value="Bad Login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
