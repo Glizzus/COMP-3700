@@ -1,23 +1,45 @@
-<mxfile host="Electron" modified="2023-09-12T16:39:00.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="qF0rhB3zhXjjptYmW4TS" version="21.6.5" type="device">
+<mxfile host="Electron" modified="2023-09-12T16:56:17.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="fhkL7Iz0P4Lkb5J4OgZG" version="21.6.5" type="device">
   <diagram name="Page-1" id="_-8cIRWS82OEVBBdzaTl">
-    <mxGraphModel dx="1098" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="784" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="N5hCYDEHvf6Lj0Gqp9XK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N5hCYDEHvf6Lj0Gqp9XK-1" target="N5hCYDEHvf6Lj0Gqp9XK-2">
+        <mxCell id="N5hCYDEHvf6Lj0Gqp9XK-1" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="klG7IYDjFdXkR-O1vyBC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="N5hCYDEHvf6Lj0Gqp9XK-1" target="klG7IYDjFdXkR-O1vyBC-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="330.0000000000001" as="targetPoint" />
+            <mxPoint x="400" y="290.0000000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="klG7IYDjFdXkR-O1vyBC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N5hCYDEHvf6Lj0Gqp9XK-4" target="klG7IYDjFdXkR-O1vyBC-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="572.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N5hCYDEHvf6Lj0Gqp9XK-4" value="Select social media site" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="klG7IYDjFdXkR-O1vyBC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="klG7IYDjFdXkR-O1vyBC-2" target="N5hCYDEHvf6Lj0Gqp9XK-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N5hCYDEHvf6Lj0Gqp9XK-1" value="Put on social media" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="110" width="120" height="80" as="geometry" />
+        <mxCell id="klG7IYDjFdXkR-O1vyBC-2" value="Select podcast to upload" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="330" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N5hCYDEHvf6Lj0Gqp9XK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N5hCYDEHvf6Lj0Gqp9XK-2" target="N5hCYDEHvf6Lj0Gqp9XK-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="klG7IYDjFdXkR-O1vyBC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="klG7IYDjFdXkR-O1vyBC-6" target="klG7IYDjFdXkR-O1vyBC-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="N5hCYDEHvf6Lj0Gqp9XK-2" value="Select podcast" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="220" width="120" height="80" as="geometry" />
+        <mxCell id="klG7IYDjFdXkR-O1vyBC-6" value="Upload podcast to social media site" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="570" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="N5hCYDEHvf6Lj0Gqp9XK-4" value="Send podcast to social media site/app for upload" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="340" width="120" height="80" as="geometry" />
+        <mxCell id="klG7IYDjFdXkR-O1vyBC-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="670" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="klG7IYDjFdXkR-O1vyBC-9" value="Social Media activity diagram" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="198" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
