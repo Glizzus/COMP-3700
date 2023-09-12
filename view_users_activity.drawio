@@ -1,0 +1,28 @@
+<mxfile host="Electron" modified="2023-09-12T20:00:13.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="L69aeT4SjuX5TedA-aLs" version="21.6.8" type="device">
+  <diagram name="Page-1" id="DNq6ZwQZ0oqvykgNdicF">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Agrtoc5y424S4yWGLyky-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Agrtoc5y424S4yWGLyky-2" target="Agrtoc5y424S4yWGLyky-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Agrtoc5y424S4yWGLyky-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="395" y="90" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Agrtoc5y424S4yWGLyky-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Agrtoc5y424S4yWGLyky-4" target="Agrtoc5y424S4yWGLyky-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Agrtoc5y424S4yWGLyky-4" value="View Users" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Agrtoc5y424S4yWGLyky-16" value="&lt;h1&gt;Use Case Description&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Use Case Name&amp;nbsp;&lt;/b&gt;- View Users&lt;/p&gt;&lt;p&gt;&lt;b&gt;Summary&amp;nbsp;&lt;/b&gt;- This use case simply allows Podcast Managers to view all of the users of the system.&lt;/p&gt;&lt;p&gt;Actors - Podcast Managers&lt;/p&gt;&lt;p&gt;Preconditions - The Podcast Manager must have logged in as an admin.&lt;/p&gt;&lt;p&gt;Main Sequence-&amp;nbsp;&lt;/p&gt;&lt;p&gt;1. Podcaster Manager is logged into account&lt;/p&gt;&lt;p&gt;2. Podcaster may browse and manage users.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="75" width="300" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="Agrtoc5y424S4yWGLyky-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="395" y="310" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
