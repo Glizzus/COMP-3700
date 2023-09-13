@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T23:56:06.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="we9uiD5EC2SV0ufs2Byi" version="21.7.4" type="device">
+<mxfile host="app.diagrams.net" modified="2023-09-13T01:00:34.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="drKQq7n5wKSmHk0nUdgW" version="21.7.4" type="device">
   <diagram name="Page-1" id="wLwSyoKLnbe2JT4sdMwb">
     <mxGraphModel dx="1878" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
           <mxGeometry x="180" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5yNrjOZ0DMDc57h8IIKu-16" value="&lt;b&gt;Delete Podcast&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="120" width="120" height="30" as="geometry" />
+          <mxGeometry x="260" y="135" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5yNrjOZ0DMDc57h8IIKu-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="300" y="170" width="40" height="40" as="geometry" />
@@ -71,6 +71,9 @@
         </mxCell>
         <mxCell id="5yNrjOZ0DMDc57h8IIKu-23" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;Description&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Use case name:&lt;/b&gt; Delete podcast&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Actor:&lt;/b&gt; podcaster or manager&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Precondition:&lt;/b&gt; The podcaster has logged into their account or manager has logged into their account and selected a podcaster&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Main sequence:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;1. The podcaster/manager selects the podcast they would like to delete.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;2. The podcaster/manager then presses the delete button.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;3. The podcaster/manager is asked to confirm if they would like to delete the file.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;4. The file is deleted for the account.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Alternative sequence:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;4. The file is not deleted and the file is unselected.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Postconditions: &lt;/b&gt;A file is deleted.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="144" width="310" height="626" as="geometry" />
+        </mxCell>
+        <mxCell id="5yNrjOZ0DMDc57h8IIKu-24" value="BEANSTALK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;Sarah Hardin, Ashton Stroud, Cal Crosby, Jon Story&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="172" y="98" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

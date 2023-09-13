@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T23:55:53.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Mnd6J0H3AESpGQuNQL4w" version="21.7.4" type="device">
+<mxfile host="app.diagrams.net" modified="2023-09-13T01:00:40.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="H2fpLUMohmV1MqC3tvtj" version="21.7.4" type="device">
   <diagram name="Page-1" id="wLwSyoKLnbe2JT4sdMwb">
     <mxGraphModel dx="2035" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="oXLlJpICOgz04VFmjEHe-45" value="&lt;h1&gt;Description&lt;/h1&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Use case name: &lt;/b&gt;Edit podcast&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Actor:&lt;/b&gt; podcaster or manager&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Precondition:&lt;/b&gt; The podcaster has logged into their account or manager has logged into their account and selected a podcaster&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Main sequence:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;1. The podcaster/manager selects the podcast they would like to edit.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;2. The podcaster/manager then presses the edit button and is taken to an outside editing platform with the podcast file.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;3.The changes made to the file are brought back to the application and saved to the users files&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Postcondition:&lt;/b&gt; A new version of the file is saved.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="144" width="310" height="526" as="geometry" />
+        </mxCell>
+        <mxCell id="oXLlJpICOgz04VFmjEHe-47" value="BEANSTALK&lt;br&gt;Sarah Hardin, Ashton Stroud, Cal Crosby, Jon Story" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="104" width="300" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
