@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T01:00:34.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="drKQq7n5wKSmHk0nUdgW" version="21.7.4" type="device">
+<mxfile host="Electron" modified="2023-09-13T01:53:46.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="u6-srzFF9h4ikQ6kaWa4" version="21.6.8" type="device">
   <diagram name="Page-1" id="wLwSyoKLnbe2JT4sdMwb">
-    <mxGraphModel dx="1878" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5yNrjOZ0DMDc57h8IIKu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oXLlJpICOgz04VFmjEHe-2" target="5yNrjOZ0DMDc57h8IIKu-20">
+        <mxCell id="5yNrjOZ0DMDc57h8IIKu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oXLlJpICOgz04VFmjEHe-2" target="5yNrjOZ0DMDc57h8IIKu-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oXLlJpICOgz04VFmjEHe-2" value="Select podcast to delete" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="255" y="270" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5yNrjOZ0DMDc57h8IIKu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oXLlJpICOgz04VFmjEHe-3" target="5yNrjOZ0DMDc57h8IIKu-5">
+        <mxCell id="5yNrjOZ0DMDc57h8IIKu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oXLlJpICOgz04VFmjEHe-3" target="5yNrjOZ0DMDc57h8IIKu-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oXLlJpICOgz04VFmjEHe-3" value="User asked for deletion conformation" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -22,20 +22,20 @@
             <mxPoint x="450" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yNrjOZ0DMDc57h8IIKu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5yNrjOZ0DMDc57h8IIKu-18">
+        <mxCell id="5yNrjOZ0DMDc57h8IIKu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="5yNrjOZ0DMDc57h8IIKu-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="848" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yNrjOZ0DMDc57h8IIKu-1" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Remove podcast from account files&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5yNrjOZ0DMDc57h8IIKu-1" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Remove podcast from account files&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="748" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5yNrjOZ0DMDc57h8IIKu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5yNrjOZ0DMDc57h8IIKu-5">
+        <mxCell id="5yNrjOZ0DMDc57h8IIKu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="5yNrjOZ0DMDc57h8IIKu-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="747" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yNrjOZ0DMDc57h8IIKu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5yNrjOZ0DMDc57h8IIKu-5" target="5yNrjOZ0DMDc57h8IIKu-17">
+        <mxCell id="5yNrjOZ0DMDc57h8IIKu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5yNrjOZ0DMDc57h8IIKu-5" target="5yNrjOZ0DMDc57h8IIKu-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="585" as="sourcePoint" />
             <mxPoint x="240" y="180" as="targetPoint" />
@@ -45,35 +45,35 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yNrjOZ0DMDc57h8IIKu-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5yNrjOZ0DMDc57h8IIKu-5" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="647" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5yNrjOZ0DMDc57h8IIKu-13" value="Confirmed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5yNrjOZ0DMDc57h8IIKu-13" value="Confirmed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="698" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5yNrjOZ0DMDc57h8IIKu-15" value="Not confirmed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5yNrjOZ0DMDc57h8IIKu-15" value="Not confirmed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5yNrjOZ0DMDc57h8IIKu-16" value="&lt;b&gt;Delete Podcast&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5yNrjOZ0DMDc57h8IIKu-16" value="&lt;b&gt;Delete Podcast&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="135" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5yNrjOZ0DMDc57h8IIKu-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="5yNrjOZ0DMDc57h8IIKu-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="300" y="170" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5yNrjOZ0DMDc57h8IIKu-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0f0f0f;" vertex="1" parent="1">
+        <mxCell id="5yNrjOZ0DMDc57h8IIKu-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0f0f0f;" parent="1" vertex="1">
           <mxGeometry x="300" y="898" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5yNrjOZ0DMDc57h8IIKu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5yNrjOZ0DMDc57h8IIKu-20" target="oXLlJpICOgz04VFmjEHe-3">
+        <mxCell id="5yNrjOZ0DMDc57h8IIKu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5yNrjOZ0DMDc57h8IIKu-20" target="oXLlJpICOgz04VFmjEHe-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5yNrjOZ0DMDc57h8IIKu-20" value="Press Delete Icon" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5yNrjOZ0DMDc57h8IIKu-20" value="Press Delete Icon" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="386" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5yNrjOZ0DMDc57h8IIKu-23" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;Description&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Use case name:&lt;/b&gt; Delete podcast&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Actor:&lt;/b&gt; podcaster or manager&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Precondition:&lt;/b&gt; The podcaster has logged into their account or manager has logged into their account and selected a podcaster&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Main sequence:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;1. The podcaster/manager selects the podcast they would like to delete.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;2. The podcaster/manager then presses the delete button.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;3. The podcaster/manager is asked to confirm if they would like to delete the file.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;4. The file is deleted for the account.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Alternative sequence:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;4. The file is not deleted and the file is unselected.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Postconditions: &lt;/b&gt;A file is deleted.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5yNrjOZ0DMDc57h8IIKu-23" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;Description&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Use case name:&lt;/b&gt; Delete podcast&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Actor:&lt;/b&gt; podcaster or manager&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Precondition:&lt;/b&gt; The podcaster has logged into their account or manager has logged into their account and selected a podcaster&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Main sequence:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;1. The podcaster/manager selects the podcast they would like to delete.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;2. The podcaster/manager then presses the delete button.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;3. The podcaster/manager is asked to confirm if they would like to delete the file.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;4. The file is deleted for the account.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Alternative sequence:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;4. The file is not deleted and the file is unselected.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;b&gt;Postconditions: &lt;/b&gt;A file is deleted.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410" y="144" width="310" height="626" as="geometry" />
         </mxCell>
-        <mxCell id="5yNrjOZ0DMDc57h8IIKu-24" value="BEANSTALK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;Sarah Hardin, Ashton Stroud, Cal Crosby, Jon Story&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="172" y="98" width="300" height="30" as="geometry" />
+        <mxCell id="xBIsx-k-6L0i1P938BCn-1" value="BEANSTALK&lt;br&gt;Cal Crosby, Ashton Stroud, Sarah Hardin, Jon Story" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="80" width="300" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
