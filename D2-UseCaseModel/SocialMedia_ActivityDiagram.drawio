@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-09-12T19:41:45.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="Jwq1UJw4CIqFpMx8i49l" version="21.6.5" type="device">
+<mxfile host="Electron" modified="2023-09-13T01:54:50.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="2uNKX6vjzvmadpSOtGh1" version="21.6.8" type="device">
   <diagram name="Page-1" id="_-8cIRWS82OEVBBdzaTl">
-    <mxGraphModel dx="915" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
             <mxPoint x="140" y="172.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zpk-Gnx8AWlZMlz8n8Sq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N5hCYDEHvf6Lj0Gqp9XK-4" target="zpk-Gnx8AWlZMlz8n8Sq-2">
+        <mxCell id="zpk-Gnx8AWlZMlz8n8Sq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="N5hCYDEHvf6Lj0Gqp9XK-4" target="zpk-Gnx8AWlZMlz8n8Sq-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N5hCYDEHvf6Lj0Gqp9XK-4" value="Display social media sites" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -30,16 +30,16 @@
         <mxCell id="klG7IYDjFdXkR-O1vyBC-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="120" y="520" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zpk-Gnx8AWlZMlz8n8Sq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zpk-Gnx8AWlZMlz8n8Sq-2" target="klG7IYDjFdXkR-O1vyBC-6">
+        <mxCell id="zpk-Gnx8AWlZMlz8n8Sq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zpk-Gnx8AWlZMlz8n8Sq-2" target="klG7IYDjFdXkR-O1vyBC-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zpk-Gnx8AWlZMlz8n8Sq-2" value="Get selection of site" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zpk-Gnx8AWlZMlz8n8Sq-2" value="Get selection of site" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zpk-Gnx8AWlZMlz8n8Sq-5" value="Use case Name: Upload podcast to Social Media&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;Dependancy: View Podcast&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;Summary: User presses upload to social media and is prompted with a list of social media sites to upload to.&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;Actor: User&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;Precondition: The user is viewing a podcast.&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;Main Sequence:&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;1. User selects upload to social media button&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;2. Display the social media sites&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Upload the podcast to the site using the sites upload externally features&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Alternate Sequence:&lt;br&gt;1. User selected upload to social media button&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. User selects cancel&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="zpk-Gnx8AWlZMlz8n8Sq-5" value="Use case Name: Upload podcast to Social Media&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;Dependancy: View Podcast&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;Summary: User presses upload to social media and is prompted with a list of social media sites to upload to.&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;Actor: User&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;Precondition: The user is viewing a podcast.&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;Main Sequence:&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;1. User selects upload to social media button&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;2. Display the social media sites&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Upload the podcast to the site using the sites upload externally features&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Alternate Sequence:&lt;br&gt;1. User selected upload to social media button&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. User selects cancel&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="330" y="100" width="520" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="zpk-Gnx8AWlZMlz8n8Sq-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N5hCYDEHvf6Lj0Gqp9XK-4" target="klG7IYDjFdXkR-O1vyBC-8">
+        <mxCell id="zpk-Gnx8AWlZMlz8n8Sq-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="N5hCYDEHvf6Lj0Gqp9XK-4" target="klG7IYDjFdXkR-O1vyBC-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="300" as="sourcePoint" />
             <mxPoint x="240" y="540" as="targetPoint" />
@@ -49,8 +49,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zpk-Gnx8AWlZMlz8n8Sq-10" value="Cancel Upload" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zpk-Gnx8AWlZMlz8n8Sq-10" value="Cancel Upload" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T6xMvAuLhtj0VzOBD7iR-1" value="BEANSTALK&lt;br&gt;Cal Crosby, Ashton Stroud, Sarah Hardin, Jon Story" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="50" width="300" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

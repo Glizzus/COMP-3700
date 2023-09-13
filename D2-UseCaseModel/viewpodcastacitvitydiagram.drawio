@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T19:36:43.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="7lA5Y9IEX8pmw1aeclSN" version="21.7.4" type="device">
+<mxfile host="Electron" modified="2023-09-13T01:52:22.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="T7pNIGDdx5nbg7a3NKug" version="21.6.8" type="device">
   <diagram name="Page-1" id="5-9eP00wDvto8B_x-BCT">
-    <mxGraphModel dx="910" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,6 +53,9 @@
         </mxCell>
         <mxCell id="T_accV0QKfrRkrqxcDgm-23" value="&lt;h1&gt;Use Case Description&lt;/h1&gt;&lt;p&gt;Use Case Name- View Podcasts&lt;/p&gt;&lt;p&gt;Summary- This use case simply allows the users to view their files and allows the podcast managers to see all their files from all their users/podcasters&lt;/p&gt;&lt;p&gt;Dependency- This requires that the users are already logged into the application&lt;/p&gt;&lt;p&gt;Actors- Podcasters and Podcast Managers&lt;/p&gt;&lt;p&gt;Preconditions- Podcasters will have to had recorded a podcast previously in order to see one in their files&lt;/p&gt;&lt;p&gt;Main Sequence-&amp;nbsp;&lt;/p&gt;&lt;p&gt;1. Podcaster is logged into account&lt;/p&gt;&lt;p&gt;2. Podcaster may browse and manage their audio files that they have recorded&lt;/p&gt;&lt;p&gt;Alternate Sequence-&amp;nbsp;&lt;/p&gt;&lt;p&gt;1. Podcast Manager is already logged into their admin account&lt;/p&gt;&lt;p&gt;2. Podcast manager can view the files of each individual podcaster client and manage the files as such&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="90" width="300" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="VuHw5V-IRnwg4AqPZizP-2" value="Beanstalk&lt;br&gt;(Cal Crosby, Sarah Hardin, Jonathan Story, Ashton Stroud)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="30" width="340" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
