@@ -1,4 +1,8 @@
-Here are some examples:
+## Starting
+
+There is a starting [template](./template.drawio) that contains common elements to build these diagrams. Start there.
+
+## Examples
 
 ![example1](./maudel-example1.png)
 ![example2](./maudel-example2.png)
