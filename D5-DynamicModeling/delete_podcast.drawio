@@ -1,0 +1,103 @@
+<mxfile host="Electron" modified="2023-10-10T17:08:59.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="2GOSA8N3PIi_04Os_-W6" version="22.0.2" type="device">
+  <diagram name="Page-1" id="3gxddhXzKKZRk-OIyxOT">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OSn7Ex0KW1HROBWdStls-2" value="Interaction Diagram" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="30" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;m1. The user is logged in and requests to delete a podcast via the User Interaction.&lt;br&gt;m2. The User Interaction sends a Delete Podcast Request to the Podcast Manager.&lt;br&gt;m3. The Podcast Manager makes the request to the Database.&lt;br&gt;m4. The Database acknowledges the deletion.&lt;br&gt;m5. The Podcast manager acknowledges the deletion.&lt;br&gt;m6. The User Interaction displays the acknowledgement.&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="110" y="430" width="650" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-4" value="&lt;b&gt;User&lt;/b&gt;: A Podcaster.&lt;br&gt;&lt;b&gt;User Interaction&lt;/b&gt;: The interface that the user utilizes to interact with the application.&lt;br&gt;&lt;b&gt;Podcast Manager&lt;/b&gt;: The entity responsible for performing actions on podcasts.&lt;br&gt;&lt;b&gt;Database:&lt;/b&gt;&amp;nbsp;The persistance mechanism of the podcasts." style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="30" y="290" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-5" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZTVAIzGxuWyrAVEGopm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OSn7Ex0KW1HROBWdStls-6" target="TZTVAIzGxuWyrAVEGopm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-6" value="&amp;lt;&amp;lt;user interaction&amp;gt;&amp;gt;&lt;br&gt;User Interaction" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="OSn7Ex0KW1HROBWdStls-5" target="OSn7Ex0KW1HROBWdStls-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-8" value="" style="endArrow=blockThin;html=1;rounded=0;strokeWidth=3;endFill=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="160" as="sourcePoint" />
+            <mxPoint x="290" y="160" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-10" value="" style="endArrow=blockThin;html=1;rounded=0;strokeWidth=3;endFill=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="210" as="sourcePoint" />
+            <mxPoint x="200" y="210" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-12" value="" style="endArrow=blockThin;html=1;rounded=0;strokeWidth=3;endFill=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515" y="210" as="sourcePoint" />
+            <mxPoint x="425" y="210" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-13" value="" style="endArrow=blockThin;html=1;rounded=0;strokeWidth=3;endFill=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="170" as="sourcePoint" />
+            <mxPoint x="525" y="170" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-14" value="1. Request to Delete Podcast" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="155" y="110" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-16" value="2. Send Delete Podcast Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-17" value="5. Send Acknowledgement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="240" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-18" value="6. Display Acknowledgement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="155" y="240" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TZTVAIzGxuWyrAVEGopm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="TZTVAIzGxuWyrAVEGopm-1" target="TZTVAIzGxuWyrAVEGopm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TZTVAIzGxuWyrAVEGopm-1" value="&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;br&gt;Podcast Manager" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TZTVAIzGxuWyrAVEGopm-2" value="&amp;lt;&amp;lt;external system&amp;gt;&amp;gt;&lt;br&gt;Database" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TZTVAIzGxuWyrAVEGopm-5" value="" style="endArrow=blockThin;html=1;rounded=0;strokeWidth=3;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="170" as="sourcePoint" />
+            <mxPoint x="740" y="170" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZTVAIzGxuWyrAVEGopm-6" value="" style="endArrow=blockThin;html=1;rounded=0;strokeWidth=3;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="210" as="sourcePoint" />
+            <mxPoint x="640" y="210" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZTVAIzGxuWyrAVEGopm-7" value="3. Send Delete Podcast Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TZTVAIzGxuWyrAVEGopm-8" value="4. Send Acknowledgement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="240" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TZTVAIzGxuWyrAVEGopm-9" value="BEANSTALK&lt;br&gt;Cal Crosby, Ashton Stroud, Sarah Hardin, Jon Story" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="300" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
