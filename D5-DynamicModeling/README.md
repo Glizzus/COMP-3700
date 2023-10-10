@@ -1,6 +1,6 @@
 ## Starting
 
-There is a starting [template](./template.drawio) that contains common elements to build these diagrams. Start there.
+There is a starting template (template.drawio) that contains common elements to build these diagrams. Start there.
 
 ## Examples
 
