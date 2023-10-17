@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" modified="2023-10-17T13:18:17.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="PJgGSC5sgmG29ZUpWh15" version="22.0.4" type="device">
+  <diagram name="Page-1" id="3gxddhXzKKZRk-OIyxOT">
+    <mxGraphModel dx="606" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OSn7Ex0KW1HROBWdStls-2" value="Social Media Interaction Diagram" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="30" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;M1. The user is logged in and requests to upload a podcast to social media.&lt;br&gt;M2. User Interaction sends a request to the social media manager.&lt;br&gt;M3. Social Media Manager sends a request to the target Social Media Service.&lt;br&gt;M4. Social Media Server sends an acknowledgement of the request to the Social Media Manager.&lt;br&gt;M5. Social Media Manager sends an acknowledgement to the User Interaction.&lt;br&gt;M6. User Interaction displays acknowledgment.&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="110" y="430" width="650" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-4" value="&lt;b&gt;User&lt;/b&gt;: A podcaster&lt;br&gt;&lt;b&gt;User Interaction&lt;/b&gt;: The interface that the user utilizes to interact with the application.&lt;br&gt;&lt;b&gt;Social Media Manager&lt;/b&gt;: The entity that handles social media requests.&lt;br&gt;&lt;b&gt;Social Media Service&lt;/b&gt;: The external social media API that the user wants to upload to." style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="30" y="290" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-5" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0dLl7Db_bLqx3fOjTKsX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OSn7Ex0KW1HROBWdStls-6" target="0dLl7Db_bLqx3fOjTKsX-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-6" value="&amp;lt;&amp;lt;user interaction&amp;gt;&amp;gt;&lt;br&gt;User Interaction" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="OSn7Ex0KW1HROBWdStls-5" target="OSn7Ex0KW1HROBWdStls-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-8" value="" style="endArrow=blockThin;html=1;rounded=0;strokeWidth=3;endFill=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="160" as="sourcePoint" />
+            <mxPoint x="290" y="160" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-10" value="" style="endArrow=blockThin;html=1;rounded=0;strokeWidth=3;endFill=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="210" as="sourcePoint" />
+            <mxPoint x="200" y="210" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-12" value="" style="endArrow=blockThin;html=1;rounded=0;strokeWidth=3;endFill=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515" y="210" as="sourcePoint" />
+            <mxPoint x="425" y="210" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-13" value="" style="endArrow=blockThin;html=1;rounded=0;strokeWidth=3;endFill=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="170" as="sourcePoint" />
+            <mxPoint x="525" y="170" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-14" value="1. Request to Upload to Social Media" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="135" y="110" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-16" value="2. Send Upload Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="395" y="110" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-17" value="5. Send Acknowledgement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="395" y="240" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OSn7Ex0KW1HROBWdStls-18" value="6. Display Acknowledgement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="155" y="240" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0dLl7Db_bLqx3fOjTKsX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="0dLl7Db_bLqx3fOjTKsX-1" target="0dLl7Db_bLqx3fOjTKsX-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0dLl7Db_bLqx3fOjTKsX-1" value="&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;br&gt;Social Media Manager" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="545" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0dLl7Db_bLqx3fOjTKsX-3" value="&amp;lt;&amp;lt;external system&amp;gt;&amp;gt;&lt;br&gt;Social Media Service" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0dLl7Db_bLqx3fOjTKsX-4" value="" style="endArrow=blockThin;html=1;rounded=0;strokeWidth=3;endFill=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="170" as="sourcePoint" />
+            <mxPoint x="740" y="170" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0dLl7Db_bLqx3fOjTKsX-5" value="" style="endArrow=blockThin;html=1;rounded=0;strokeWidth=3;endFill=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="210" as="sourcePoint" />
+            <mxPoint x="640" y="210" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0dLl7Db_bLqx3fOjTKsX-6" value="3. Send Upload Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="625" y="110" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0dLl7Db_bLqx3fOjTKsX-7" value="4. Send Acknowledgement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="615" y="240" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0dLl7Db_bLqx3fOjTKsX-10" value="BEANSTALK&lt;br&gt;Cal Crosby, Ashton Stroud, Sarah Hardin, Jon Story" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="95" y="10" width="300" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
